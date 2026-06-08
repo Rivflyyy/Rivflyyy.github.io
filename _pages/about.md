@@ -94,7 +94,7 @@ redirect_from:
         <i><strong>Jin Li*</strong>, Tao Chen*, Kai Wen, Siqi Yin, Shuai Jiang, Weijie Wang, Jingwen Luo, Chenhui Wu&dagger;.</i><br>
         A nearly 100K-pair high-resolution virtual try-on benchmark with semantic balancing, dense garment captions, VLM-as-a-Judge evaluation, and representation-based structural metrics aligned with human preference.
         <br>
-        <b><i class="venue">arXiv 2026</i></b>
+        <b><i class="venue">NeurIPS 2026 D&B Submission</i></b>
         <a href="https://arxiv.org/abs/2601.22725" target="_blank" rel="noopener"><em>[arXiv]</em></a>
         <a href="https://github.com/Rivflyyy/OpenVTON-Bench" target="_blank" rel="noopener"><em>[project]</em></a>
       </div>
@@ -181,7 +181,7 @@ redirect_from:
       <span class="pub-list-note">Accepted.</span>
     </li>
     <li>
-      <span class="pub-list-badge">arXiv 2026</span>
+      <span class="pub-list-badge">NeurIPS 2026 D&B</span>
       <span class="pub-list-title">OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation</span><br>
       <span class="pub-list-authors"><strong>Jin Li*</strong>, Tao Chen*, Kai Wen, Siqi Yin, Shuai Jiang, Weijie Wang, Jingwen Luo, Chenhui Wu&dagger;.</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2601.22725" target="_blank" rel="noopener">[arXiv]</a><a href="https://github.com/Rivflyyy/OpenVTON-Bench" target="_blank" rel="noopener">[project]</a></span>
