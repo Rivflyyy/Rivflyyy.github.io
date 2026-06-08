@@ -1,29 +1,29 @@
 # main links links
 
 main:
+  - title: "Home"
+    url: "/"
+
   - title: "News"
     url: "/#news"
+
+  - title: "Education"
+    url: "/#education"
 
   - title: "Experience"
     url: "/#experience"
 
-  - title: "Pub"
+  - title: "Publications"
     url: "/#publications"
 
-  - title: "Project"
+  - title: "Projects"
     url: "/#projects"
 
   - title: "Awards"
     url: "/#awards"
 
-  - title: "Services"
-    url: "/#services"
+  - title: "Patents"
+    url: "/#patents"
     
-  - title: "Talks"
-    url: "/#talks"
-    
-  - title: "CV-En"
-    url: "/files/weidongtang_resume.pdf"
-
-  # - title: "CV-Cn"
-  #   url: "/files/chinese_resume.pdf"
+  - title: "CV"
+    url: "/files/LI_Jin_CV.pdf"

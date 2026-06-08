@@ -1,24 +1,24 @@
 locale                   : "en-US"
-title                    : "WowPage"
+title                    : "Jin Li"
 title_separator          : "-"
-name                     : "Your Name"
-description              : &description "A clean academic homepage template."
-url                      : ""
+name                     : "Jin Li"
+description              : &description "Academic homepage of Jin Li, an undergraduate researcher working on multimodal learning, large language models, diffusion models, and intelligent signal processing."
+url                      : "https://rivflyyy.github.io"
 baseurl                  : ""
-repository               : ""
+repository               : "Rivflyyy/Rivflyyy.github.io"
 
 author:
   avatar           : "1.png"
-  name             : "Your Name"
+  name             : "Jin Li"
   pronouns         :
-  bio              : "Student and researcher."
-  location         : "City, Country"
-  employer         : "Institution or Company"
+  bio              : "B.Eng. student at Hangzhou Dianzi University. Multimodal learning, LLMs, diffusion models, and intelligent signal processing."
+  location         : "Hangzhou, China"
+  employer         : "Hangzhou Dianzi University"
   uri              :
-  email            : "name@example.com"
+  email            : "Jinli@hdu.edu.cn"
 
-  arxiv            :
-  googlescholar    :
+  arxiv            : "https://arxiv.org/search/?query=Jin+Li&searchtype=author"
+  googlescholar    : "https://scholar.google.com/citations?user=SkpNdIoAAAAJ&hl=zh-CN"
   impactstory      :
   orcid            :
   semantic         :
@@ -28,7 +28,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           :
+  github           : "Rivflyyy"
   kaggle           :
   stackoverflow    :
 
