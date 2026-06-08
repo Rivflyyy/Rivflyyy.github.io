@@ -12,8 +12,11 @@ redirect_from:
   <p class="eyebrow">Jin Li</p>
   <h1 class="main-heading">Intelligent Signal Processing, Multimodal Learning, LLMs, and Diffusion Models</h1>
   <p class="hero-copy">
-    My research focuses on intelligent signal processing, multimodal learning,
-    large language models, and diffusion models.
+    My research began with intelligent signal processing and edge-oriented voice interaction,
+    where I worked on robust command recognition and multimodal sensing systems.
+    I then moved toward large language model reasoning, inference-time optimization,
+    and multimodal generation evaluation. Looking ahead, I am especially interested in
+    reliable multimodal intelligence, controllable diffusion models, and efficient LLM systems.
   </p>
   <div class="hero-actions">
     <a class="action-button" href="files/LI_Jin_CV.pdf">CV</a>
@@ -31,11 +34,11 @@ redirect_from:
 <h2 id="news">News</h2>
 <div class="news-box">
   <ul class="news-list">
-    <li><span class="news-date"><em>2026.06</em></span> KFC-KWS accepted to Interspeech 2026.</li>
-    <li><span class="news-date"><em>2026.05</em></span> OpenVTON-Bench submitted to the NeurIPS 2026 Datasets & Benchmarks Track.</li>
-    <li><span class="news-date"><em>2026.01</em></span> Spectral Logit Sculpting accepted to IEEE ICASSP 2026.</li>
-    <li><span class="news-date"><em>2025.08</em></span> NC-KWS accepted to NCMMSC 2025.</li>
-    <li><span class="news-date"><em>2025.05</em></span> MRIE accepted to IEEE Access.</li>
+    <li><span class="news-date"><em>2026.06</em></span> 🎙️ <strong>KFC-KWS</strong> was accepted to Interspeech 2026. This work studies user-defined keyword spotting with CTC-guided keyframe fusion.</li>
+    <li><span class="news-date"><em>2026.05</em></span> 🧥 <strong>OpenVTON-Bench</strong> was submitted to the NeurIPS 2026 Datasets & Benchmarks Track, focusing on high-resolution controllable virtual try-on evaluation.</li>
+    <li><span class="news-date"><em>2026.01</em></span> 🧠 <strong>Spectral Logit Sculpting</strong> was accepted to IEEE ICASSP 2026. The paper explores inference-time optimization for controlled text generation.</li>
+    <li><span class="news-date"><em>2025.08</em></span> 🔊 <strong>NC-KWS</strong> was accepted to NCMMSC 2025, bringing neural-collapse-inspired ideas to few-shot class-incremental keyword spotting.</li>
+    <li><span class="news-date"><em>2025.05</em></span> 🌧️ <strong>MRIE</strong> was accepted to IEEE Access. This work investigates two-stage multimodal learning for rainfall intensity estimation.</li>
   </ul>
 </div>
 
