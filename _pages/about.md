@@ -91,7 +91,7 @@ redirect_from:
       </div>
       <div>
         <strong>OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation</strong><br>
-        <i>Jin Li*, Tao Chen*, Kai Wen, Siqi Yin, Shuai Jiang, Weijie Wang, Jingwen Luo, Chenhui Wu&dagger;.</i><br>
+        <i><strong>Jin Li*</strong>, Tao Chen*, Kai Wen, Siqi Yin, Shuai Jiang, Weijie Wang, Jingwen Luo, Chenhui Wu&dagger;.</i><br>
         A nearly 100K-pair high-resolution virtual try-on benchmark with semantic balancing, dense garment captions, VLM-as-a-Judge evaluation, and representation-based structural metrics aligned with human preference.
         <br>
         <b><i class="venue">arXiv 2026</i></b>
@@ -108,7 +108,7 @@ redirect_from:
       </div>
       <div>
         <strong>KFC-KWS: Keyframe Fusion with CTC for User-Defined Keyword Spotting</strong><br>
-        <i>Jin Li, Wenbin Jiang, Ji Hu.</i><br>
+        <i><strong>Jin Li</strong>, Wenbin Jiang, Ji Hu.</i><br>
         Uses CTC peaky posterior distributions to select phoneme keyframes, aligning audio, phoneme, and text modalities for discriminating highly confusable user-defined keywords.
         <br>
         <b><i class="venue">Interspeech 2026</i></b>
@@ -123,7 +123,7 @@ redirect_from:
       </div>
       <div>
         <strong>Spectral Logit Sculpting: Adaptive Low-Rank Logit Transformation for Controlled Text Generation</strong><br>
-        <i>Jin Li, Zhebo Wang, Tianliang Lu, Mohan Li, Wenpeng Xing, Meng Han.</i><br>
+        <i><strong>Jin Li</strong>, Zhebo Wang, Tianliang Lu, Mohan Li, Wenpeng Xing, Meng Han.</i><br>
         An inference-time optimization method that uses spectral analysis, entropy statistics, and adaptive low-rank logit transformation to improve controlled text generation without parameter updates.
         <br>
         <b><i class="venue">ICASSP 2026</i></b>
@@ -139,7 +139,7 @@ redirect_from:
       </div>
       <div>
         <strong>MRIE: Enhanced Rainfall Intensity Estimation with Two-Stage Multimodal Deep Learning</strong><br>
-        <i>Jin Li, Wentao Hu, Zhigang Zhou.</i><br>
+        <i><strong>Jin Li</strong>, Wentao Hu, Zhigang Zhou.</i><br>
         A two-stage multimodal framework that integrates environmental sensor data and audio to improve rainfall intensity estimation through cross-modal guidance and feature aggregation.
         <br>
         <b><i class="venue">IEEE Access 2025</i></b>
@@ -155,7 +155,7 @@ redirect_from:
       </div>
       <div>
         <strong>NC-KWS: Few-Shot Class-Incremental Keyword Spotting Based on Neural Collapse</strong><br>
-        <i>Jin Li, Wenbin Jiang, Yitao Tian, Zhuoyang Li.</i><br>
+        <i><strong>Jin Li</strong>, Wenbin Jiang, Yitao Tian, Zhuoyang Li.</i><br>
         Introduces neural-collapse-inspired feature-classifier alignment and an equiangular tight frame classifier for few-shot class-incremental keyword spotting.
         <br>
         <b><i class="venue">NCMMSC 2025 / Springer LNCS</i></b>
