@@ -55,15 +55,7 @@ redirect_from:
 <h2 id="experience">Research & Internship Experience</h2>
 <div class="experience-container">
   <div class="experience-card">
-    <div class="experience-logo text-logo">RX</div>
-    <div class="experience-info">
-      <strong>Hangzhou Renxing Intelligence Technology Co., Ltd.</strong><br>
-      <em>Algorithm Intern · Nov 2025 - Mar 2026</em><br>
-      Research on controllable image generation and diffusion models.
-    </div>
-  </div>
-  <div class="experience-card">
-    <div class="experience-logo text-logo">ZJ</div>
+    <img src="images/bjy_slogan.jpeg" alt="Zhejiang University Binjiang Institute" class="experience-logo">
     <div class="experience-info">
       <strong>Zhejiang University Binjiang Institute</strong><br>
       <em>Research Intern · May 2025 - Aug 2025</em><br>
@@ -71,7 +63,7 @@ redirect_from:
     </div>
   </div>
   <div class="experience-card">
-    <div class="experience-logo text-logo">IIPL</div>
+    <img src="images/iipl_slogan.png" alt="Intelligent Information Processing Lab" class="experience-logo">
     <div class="experience-info">
       <strong>Intelligent Information Processing Lab, Hangzhou Dianzi University</strong><br>
       <em>Research Assistant · Jul 2024 - Sep 2025</em><br>
