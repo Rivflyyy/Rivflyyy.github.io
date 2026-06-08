@@ -10,12 +10,10 @@ redirect_from:
 
 <section class="hero-panel">
   <p class="eyebrow">Jin Li</p>
-  <h1 class="main-heading">Multimodal Learning, LLMs, Diffusion Models, and Edge AI</h1>
+  <h1 class="main-heading">Intelligent Signal Processing, Multimodal Learning, LLMs, and Diffusion Models</h1>
   <p class="hero-copy">
-    I am a B.Eng. student in Electronic Information Engineering at Hangzhou Dianzi University.
-    My research spans user-defined keyword spotting, few-shot class-incremental learning,
-    inference-time optimization for large language models, controllable virtual try-on evaluation,
-    and multimodal environmental sensing.
+    My research focuses on intelligent signal processing, multimodal learning,
+    large language models, and diffusion models.
   </p>
   <div class="hero-actions">
     <a class="action-button" href="files/LI_Jin_CV.pdf">CV</a>
@@ -26,7 +24,6 @@ redirect_from:
     <span>Multimodal Learning</span>
     <span>Large Language Models</span>
     <span>Diffusion Models</span>
-    <span>Keyword Spotting</span>
     <span>Intelligent Signal Processing</span>
   </div>
 </section>
@@ -34,12 +31,11 @@ redirect_from:
 <h2 id="news">News</h2>
 <div class="news-box">
   <ul class="news-list">
-    <li><span class="news-date"><em>2026.03</em></span> Algorithm internship at Hangzhou Renxing Intelligence Technology on ultra-high-resolution controllable image generation and OpenVTON-Bench.</li>
-    <li><span class="news-date"><em>2026</em></span> KFC-KWS accepted to Interspeech 2026.</li>
-    <li><span class="news-date"><em>2026</em></span> Spectral Logit Sculpting accepted to IEEE ICASSP 2026.</li>
-    <li><span class="news-date"><em>2026</em></span> NC-KWS published in Springer LNCS, Man-Machine Speech Communication: NCMMSC 2025.</li>
-    <li><span class="news-date"><em>2025</em></span> MRIE published in IEEE Access, Volume 13, pp. 88600-88608.</li>
-    <li><span class="news-date"><em>2025</em></span> Research internship at Zhejiang University Binjiang Institute on LLM reasoning optimization.</li>
+    <li><span class="news-date"><em>2026.06</em></span> KFC-KWS accepted to Interspeech 2026.</li>
+    <li><span class="news-date"><em>2026.05</em></span> OpenVTON-Bench submitted to the NeurIPS 2026 Datasets & Benchmarks Track.</li>
+    <li><span class="news-date"><em>2026.01</em></span> Spectral Logit Sculpting accepted to IEEE ICASSP 2026.</li>
+    <li><span class="news-date"><em>2025.08</em></span> NC-KWS accepted to NCMMSC 2025.</li>
+    <li><span class="news-date"><em>2025.05</em></span> MRIE accepted to IEEE Access.</li>
   </ul>
 </div>
 
@@ -63,8 +59,7 @@ redirect_from:
     <div class="experience-info">
       <strong>Hangzhou Renxing Intelligence Technology Co., Ltd.</strong><br>
       <em>Algorithm Intern · Nov 2025 - Mar 2026</em><br>
-      Worked on ultra-high-resolution controllable image generation based on diffusion models, pixel-space controlled generation pipelines, and a frequency-domain diffusion framework.
-      <span class="muted">Optimized training with DeepSpeed, sequence parallelism, and memory strategies, reducing VRAM usage by about 30% and improving throughput by 1.3x-1.5x.</span>
+      Research on controllable image generation and diffusion models.
     </div>
   </div>
   <div class="experience-card">
@@ -72,26 +67,15 @@ redirect_from:
     <div class="experience-info">
       <strong>Zhejiang University Binjiang Institute</strong><br>
       <em>Research Intern · May 2025 - Aug 2025</em><br>
-      Designed reinforcement-learning reward functions for multi-turn LLM reasoning and proposed Spectral Logit Sculpting, an entropy-regulated online adaptive inference optimization method.
-      <span class="muted">The resulting first-author paper was accepted to ICASSP 2026.</span>
+      Research on LLM reasoning and inference-time optimization.
     </div>
   </div>
   <div class="experience-card">
-    <div class="experience-logo text-logo">KWS</div>
+    <div class="experience-logo text-logo">IIPL</div>
     <div class="experience-info">
-      <strong>User-Defined Voice Command Recognition</strong><br>
-      <em>Bachelor's Thesis · Outstanding Graduation Thesis · Sep 2025 - Present</em><br>
-      Proposed KFC-KWS, a CTC-guided keyframe fusion framework with audio, phoneme, and text alignment for robust user-defined voice command recognition.
-      <span class="muted">Implemented a Qt/FastAPI system supporting real-time detection and custom command management.</span>
-    </div>
-  </div>
-  <div class="experience-card">
-    <div class="experience-logo text-logo">RK</div>
-    <div class="experience-info">
-      <strong>Scalable Edge Command Recognition Systems</strong><br>
-      <em>Team Leader / Algorithm Design · Jul 2024 - Sep 2025</em><br>
-      Led and implemented keyword spotting systems with online adaptation, multimodal fusion, incremental learning, ONNX optimization, and C++ prefix beam search decoding on RK3588.
-      <span class="muted">Reached over 95% accuracy under -5 to 15 dB SNR with sub-200 ms latency in one edge deployment.</span>
+      <strong>Intelligent Information Processing Lab, Hangzhou Dianzi University</strong><br>
+      <em>Research Assistant · Jul 2024 - Sep 2025</em><br>
+      Research on edge intelligent signal processing and multimodal command recognition.
     </div>
   </div>
 </div>
@@ -225,7 +209,9 @@ redirect_from:
 <h2 id="projects">Projects</h2>
 <div class="project-card">
   <div class="card-row">
-    <div class="project-media code-tile">torch</div>
+    <div class="pub-media-rotator project-media" data-interval="4000">
+      <img src="images/projects/happytorch.png" alt="HappyTorch platform screenshot">
+    </div>
     <div>
       <strong>HappyTorch</strong><br>
       <i>A LeetCode-style, self-hosted PyTorch practice platform.</i><br>
