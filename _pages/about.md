@@ -19,7 +19,6 @@ redirect_from:
     reliable multimodal intelligence, controllable diffusion models, and efficient LLM systems.
   </p>
   <div class="hero-actions">
-    <a class="action-button" href="files/LI_Jin_CV.pdf">CV</a>
     <a class="action-button" href="https://scholar.google.com/citations?user=SkpNdIoAAAAJ&hl=zh-CN" target="_blank" rel="noopener">Google Scholar</a>
     <a class="action-button" href="https://github.com/Rivflyyy" target="_blank" rel="noopener">GitHub</a>
   </div>

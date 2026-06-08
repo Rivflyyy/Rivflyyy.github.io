@@ -5,10 +5,9 @@ This worktree customizes the WD7ang/WowPage Jekyll template into Jin Li's academ
 ## Main Files
 
 - `_config.yml`: site identity, author profile, email, GitHub, Google Scholar, and repository metadata.
-- `_data/navigation.yml`: top navigation anchors and CV link.
+- `_data/navigation.yml`: top navigation anchors.
 - `_pages/about.md`: homepage content, including news, education, experience, publications, projects, awards, patents, and skills.
 - `assets/css/home.css`: homepage-specific responsive layout and card styling.
-- `files/LI_Jin_CV.pdf`: CV copied from `/Users/jolley/Documents/LI Jin-CV (0605).pdf`.
 - `images/publications/`: publication poster images copied from `/Users/jolley/Documents/my_papers`.
 
 ## Run Locally
@@ -24,7 +23,7 @@ On this machine, the default macOS Ruby is `2.6.10`, while the current `github-p
 
 ## Content Sources
 
-- CV: `/Users/jolley/Documents/LI Jin-CV (0605).pdf`
+- CV source, not currently published: `/Users/jolley/Documents/LI Jin-CV (0605).pdf`
 - Paper projects: `/Users/jolley/Documents/my_papers`
 - Google Scholar: `https://scholar.google.com/citations?user=SkpNdIoAAAAJ&hl=zh-CN`
 - GitHub: `https://github.com/Rivflyyy`
