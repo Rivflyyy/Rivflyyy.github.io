@@ -125,7 +125,7 @@ redirect_from:
   <div class="publication-card">
     <div class="card-row">
       <div class="pub-media-rotator" data-interval="4000">
-        <img src="images/publications/kfc-selector.png" alt="KFC-KWS keyframe selection">
+        <img src="images/publications/kfc-qbyekws.png" alt="KFC-KWS query-by-example keyword spotting">
       </div>
       <div>
         <strong>KFC-KWS: Keyframe Fusion with CTC for User-Defined Keyword Spotting</strong><br>
@@ -140,7 +140,23 @@ redirect_from:
   <div class="publication-card">
     <div class="card-row">
       <div class="pub-media-rotator" data-interval="4000">
-        <img src="images/publications/mrie-abstract.png" alt="MRIE multimodal rainfall estimation">
+        <img src="images/publications/sls-poster.png" alt="Spectral Logit Sculpting overview">
+      </div>
+      <div>
+        <strong>Spectral Logit Sculpting: Adaptive Low-Rank Logit Transformation for Controlled Text Generation</strong><br>
+        <i>Jin Li, Zhebo Wang, Tianliang Lu, Mohan Li, Wenpeng Xing, Meng Han.</i><br>
+        An inference-time optimization method that uses spectral analysis, entropy statistics, and adaptive low-rank logit transformation to improve controlled text generation without parameter updates.
+        <br>
+        <b><i class="venue">ICASSP 2026</i></b>
+        <a href="https://arxiv.org/pdf/2509.25204" target="_blank" rel="noopener"><em>[pdf]</em></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="publication-card">
+    <div class="card-row">
+      <div class="pub-media-rotator" data-interval="4000">
+        <img src="images/publications/mrie-pipeline.png" alt="MRIE multimodal rainfall estimation pipeline">
       </div>
       <div>
         <strong>MRIE: Enhanced Rainfall Intensity Estimation with Two-Stage Multimodal Deep Learning</strong><br>
