@@ -34,11 +34,11 @@ redirect_from:
 <h2 id="news">News</h2>
 <div class="news-box">
   <ul class="news-list">
-    <li><span class="news-date"><em>2026.06</em></span> <span class="news-mark">[Speech]</span> <strong>KFC-KWS</strong> was accepted to Interspeech 2026. This work studies user-defined keyword spotting with CTC-guided keyframe fusion.</li>
-    <li><span class="news-date"><em>2026.05</em></span> <span class="news-mark">[VTON]</span> <strong>OpenVTON-Bench</strong> was submitted to the NeurIPS 2026 Datasets & Benchmarks Track, focusing on high-resolution controllable virtual try-on evaluation.</li>
-    <li><span class="news-date"><em>2026.01</em></span> <span class="news-mark">[LLM]</span> <strong>Spectral Logit Sculpting</strong> was accepted to IEEE ICASSP 2026. The paper explores inference-time optimization for controlled text generation.</li>
-    <li><span class="news-date"><em>2025.08</em></span> <span class="news-mark">[KWS]</span> <strong>NC-KWS</strong> was accepted to NCMMSC 2025, bringing neural-collapse-inspired ideas to few-shot class-incremental keyword spotting.</li>
-    <li><span class="news-date"><em>2025.05</em></span> <span class="news-mark">[Rain]</span> <strong>MRIE</strong> was accepted to IEEE Access. This work investigates two-stage multimodal learning for rainfall intensity estimation.</li>
+    <li><span class="news-date"><em>2026.06</em></span> <strong>KFC-KWS</strong> was accepted to Interspeech 2026. This work studies user-defined keyword spotting with CTC-guided keyframe fusion.</li>
+    <li><span class="news-date"><em>2026.05</em></span> <strong>OpenVTON-Bench</strong> was submitted to the NeurIPS 2026 Datasets & Benchmarks Track, focusing on high-resolution controllable virtual try-on evaluation.</li>
+    <li><span class="news-date"><em>2026.01</em></span> <strong>Spectral Logit Sculpting</strong> was accepted to IEEE ICASSP 2026. The paper explores inference-time optimization for controlled text generation.</li>
+    <li><span class="news-date"><em>2025.08</em></span> <strong>NC-KWS</strong> was accepted to NCMMSC 2025, bringing neural-collapse-inspired ideas to few-shot class-incremental keyword spotting.</li>
+    <li><span class="news-date"><em>2025.05</em></span> <strong>MRIE</strong> was accepted to IEEE Access. This work investigates two-stage multimodal learning for rainfall intensity estimation.</li>
   </ul>
 </div>
 
