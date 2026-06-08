@@ -46,7 +46,7 @@ redirect_from:
 <h2 id="education">Education</h2>
 <div class="experience-container">
   <div class="experience-card">
-    <img src="images/2.png" alt="Hangzhou Dianzi University" class="experience-logo">
+    <img src="images/hdu_slogan.png" alt="Hangzhou Dianzi University" class="experience-logo">
     <div class="experience-info">
       <strong>Hangzhou Dianzi University</strong><br>
       <em>Sep 2022 - Jun 2026</em><br>
