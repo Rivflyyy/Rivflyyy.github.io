@@ -121,6 +121,18 @@ body {
   font-weight: 700;
 }
 
+.news-mark {
+  display: inline-block;
+  margin-right: 4px;
+  padding: 1px 7px;
+  border: 1px solid rgba(54, 83, 99, 0.2);
+  border-radius: 999px;
+  background: #eef4f6;
+  color: #365363;
+  font-size: 12px;
+  font-weight: 750;
+}
+
 .experience-container {
   display: flex;
   flex-direction: column;
