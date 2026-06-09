@@ -33,11 +33,11 @@ redirect_from:
 <h2 id="news">News</h2>
 <div class="news-box">
   <ul class="news-list">
-    <li><span class="news-date"><em>2026.06</em></span> <strong>KFC-KWS</strong> was accepted to Interspeech 2026. This work studies user-defined keyword spotting with CTC-guided keyframe fusion.</li>
-    <li><span class="news-date"><em>2026.05</em></span> <strong>OpenVTON-Bench</strong> was submitted to the NeurIPS 2026 Datasets & Benchmarks Track, focusing on high-resolution controllable virtual try-on evaluation.</li>
-    <li><span class="news-date"><em>2026.01</em></span> <strong>Spectral Logit Sculpting</strong> was accepted to IEEE ICASSP 2026. The paper explores inference-time optimization for controlled text generation.</li>
-    <li><span class="news-date"><em>2025.08</em></span> <strong>NC-KWS</strong> was accepted to NCMMSC 2025, bringing neural-collapse-inspired ideas to few-shot class-incremental keyword spotting.</li>
-    <li><span class="news-date"><em>2025.05</em></span> <strong>MRIE</strong> was accepted to IEEE Access. This work investigates two-stage multimodal learning for rainfall intensity estimation.</li>
+    <li><span class="news-date"><em>2026.06</em></span> <strong>KFC-KWS</strong> was accepted to <em>Interspeech 2026</em>. This work studies user-defined keyword spotting with CTC-guided keyframe fusion.</li>
+    <li><span class="news-date"><em>2026.05</em></span> <strong>OpenVTON-Bench</strong> was submitted to the <em>NeurIPS 2026 Datasets & Benchmarks Track</em>, focusing on high-resolution controllable virtual try-on evaluation.</li>
+    <li><span class="news-date"><em>2026.01</em></span> <strong>Spectral Logit Sculpting</strong> was accepted to <em>IEEE ICASSP 2026</em>. The paper explores inference-time optimization for controlled text generation.</li>
+    <li><span class="news-date"><em>2025.08</em></span> <strong>NC-KWS</strong> was accepted to <em>NCMMSC 2025</em>, bringing neural-collapse-inspired ideas to few-shot class-incremental keyword spotting.</li>
+    <li><span class="news-date"><em>2025.05</em></span> <strong>MRIE</strong> was accepted to <em>IEEE Access</em>. This work investigates two-stage multimodal learning for rainfall intensity estimation.</li>
   </ul>
 </div>
 
@@ -167,32 +167,32 @@ redirect_from:
 <div id="full-publications" class="publication-view" data-publication-view="list" hidden>
   <ul class="full-publication-list">
     <li>
-      <span class="pub-list-badge">ICASSP 2026</span>
+      <span class="pub-list-badge"><em>ICASSP 2026</em></span>
       <span class="pub-list-title">Spectral Logit Sculpting: Adaptive Low-Rank Logit Transformation for Controlled Text Generation</span><br>
       <span class="pub-list-authors"><strong>Jin Li</strong>, Zhebo Wang, Tianliang Lu, Mohan Li, Wenpeng Xing, Meng Han.</span>
       <span class="pub-list-note">Accepted.</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2509.25204" target="_blank" rel="noopener">[arXiv]</a></span>
     </li>
     <li>
-      <span class="pub-list-badge">Interspeech 2026</span>
+      <span class="pub-list-badge"><em>Interspeech 2026</em></span>
       <span class="pub-list-title">KFC-KWS: Keyframe Fusion with CTC for User-Defined Keyword Spotting</span><br>
       <span class="pub-list-authors"><strong>Jin Li</strong>, Wenbin Jiang, Ji Hu.</span>
       <span class="pub-list-note">Accepted.</span>
     </li>
     <li>
-      <span class="pub-list-badge">NeurIPS 2026 D&B</span>
+      <span class="pub-list-badge"><em>NeurIPS 2026 D&B</em></span>
       <span class="pub-list-title">OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation</span><br>
       <span class="pub-list-authors"><strong>Jin Li*</strong>, Tao Chen*, Kai Wen, Siqi Yin, Shuai Jiang, Weijie Wang, Jingwen Luo, Chenhui Wu&dagger;.</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2601.22725" target="_blank" rel="noopener">[arXiv]</a><a href="https://github.com/Rivflyyy/OpenVTON-Bench" target="_blank" rel="noopener">[project]</a></span>
     </li>
     <li>
-      <span class="pub-list-badge">NCMMSC 2025</span>
+      <span class="pub-list-badge"><em>NCMMSC 2025</em></span>
       <span class="pub-list-title">NC-KWS: Few-Shot Class-Incremental Keyword Spotting Based on Neural Collapse</span><br>
       <span class="pub-list-authors"><strong>Jin Li</strong>, Wenbin Jiang, Yitao Tian, Zhuoyang Li.</span>
       <span class="pub-list-links"><a href="https://doi.org/10.1007/978-981-95-5382-2_21" target="_blank" rel="noopener">[doi]</a></span>
     </li>
     <li>
-      <span class="pub-list-badge">IEEE Access 2025</span>
+      <span class="pub-list-badge"><em>IEEE Access 2025</em></span>
       <span class="pub-list-title">MRIE: Enhanced Rainfall Intensity Estimation with Two-Stage Multimodal Deep Learning</span><br>
       <span class="pub-list-authors"><strong>Jin Li</strong>, Wentao Hu, Zhigang Zhou.</span>
       <span class="pub-list-links"><a href="https://doi.org/10.1109/access.2025.3571440" target="_blank" rel="noopener">[doi]</a></span>
