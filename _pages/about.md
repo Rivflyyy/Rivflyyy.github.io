@@ -68,7 +68,7 @@ redirect_from:
     <img src="images/iipl_slogan.png" alt="Intelligent Information Processing Lab" class="experience-logo">
     <div class="experience-info">
       <strong>Intelligent Information Processing Lab, Hangzhou Dianzi University</strong><br>
-      <em>Research Assistant · Jul 2024 - Sep 2025</em><br>
+      <em>Undergraduate Researcher · Dec 2023 - Sep 2025</em><br>
       Research on edge intelligent signal processing and multimodal command recognition.
     </div>
   </div>
