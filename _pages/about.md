@@ -246,15 +246,10 @@ redirect_from:
   <li><strong>Instruction Recognition Method and System Based on Online Unsupervised Learning</strong>, CN118366442A, 2024.</li>
 </ul>
 
-<h2 id="skills">Skills</h2>
+<h2 id="skills">Selected Skills</h2>
 <div class="research-tags skill-tags">
   <span>Python</span>
-  <span>C/C++</span>
-  <span>Java</span>
   <span>PyTorch</span>
-  <span>TensorFlow</span>
-  <span>ONNX</span>
-  <span>FastAPI</span>
-  <span>Qt</span>
-  <span>DeepSpeed</span>
+  <span>LLM Inference</span>
+  <span>Multimodal Evaluation</span>
 </div>
