@@ -10,7 +10,7 @@ redirect_from:
 
 <section class="hero-panel">
   <p class="eyebrow">Jin Li</p>
-  <h1 class="main-heading">Intelligent Signal Processing, Multimodal Learning, LLMs, and Diffusion Models</h1>
+  <h1 class="main-heading">Multimodal Learning, Large Language Models, and Diffusion Models</h1>
   <p class="hero-copy">
     My research began with intelligent signal processing and edge-oriented voice interaction,
     where I worked on robust command recognition and multimodal sensing systems.
@@ -26,7 +26,6 @@ redirect_from:
     <span>Multimodal Learning</span>
     <span>Large Language Models</span>
     <span>Diffusion Models</span>
-    <span>Intelligent Signal Processing</span>
   </div>
 </section>
 
