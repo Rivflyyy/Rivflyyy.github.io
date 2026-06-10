@@ -94,7 +94,7 @@ redirect_from:
         <br>
         <b><i class="venue">NeurIPS 2026 D&B Submission</i></b>
         <a href="https://arxiv.org/abs/2601.22725" target="_blank" rel="noopener"><em>[arXiv]</em></a>
-        <a href="https://github.com/Rivflyyy/OpenVTON-Bench" target="_blank" rel="noopener"><em>[project]</em></a>
+        <a href="https://github.com/Rivflyyy/OpenVTON-Bench" target="_blank" rel="noopener"><em>[code]</em></a>
       </div>
     </div>
   </div>
@@ -126,7 +126,7 @@ redirect_from:
         An inference-time optimization method that uses spectral analysis, entropy statistics, and adaptive low-rank logit transformation to improve controlled text generation without parameter updates.
         <br>
         <b><i class="venue">ICASSP 2026</i></b>
-        <a href="https://arxiv.org/pdf/2509.25204" target="_blank" rel="noopener"><em>[pdf]</em></a>
+        <a href="https://arxiv.org/pdf/2509.25204" target="_blank" rel="noopener"><em>[arXiv]</em></a>
       </div>
     </div>
   </div>
@@ -184,7 +184,7 @@ redirect_from:
       <span class="pub-list-badge"><em>NeurIPS 2026 D&B</em></span>
       <span class="pub-list-title">OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation</span><br>
       <span class="pub-list-authors"><strong>Jin Li*</strong>, Tao Chen*, Kai Wen, Siqi Yin, Shuai Jiang, Weijie Wang, Jingwen Luo, Chenhui Wu&dagger;.</span>
-      <span class="pub-list-links"><a href="https://arxiv.org/abs/2601.22725" target="_blank" rel="noopener">[arXiv]</a><a href="https://github.com/Rivflyyy/OpenVTON-Bench" target="_blank" rel="noopener">[project]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2601.22725" target="_blank" rel="noopener">[arXiv]</a><a href="https://github.com/Rivflyyy/OpenVTON-Bench" target="_blank" rel="noopener">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge"><em>NCMMSC 2025</em></span>
