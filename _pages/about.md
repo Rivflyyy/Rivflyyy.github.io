@@ -110,6 +110,7 @@ redirect_from:
         Uses CTC peaky posterior distributions to select phoneme keyframes, aligning audio, phoneme, and text modalities for discriminating highly confusable user-defined keywords.
         <br>
         <b><i class="venue">Interspeech 2026</i></b>
+        <a href="https://arxiv.org/abs/2606.10365" target="_blank" rel="noopener"><em>[arXiv]</em></a>
       </div>
     </div>
   </div>
@@ -177,6 +178,7 @@ redirect_from:
       <span class="pub-list-title">KFC-KWS: Keyframe Fusion with CTC for User-Defined Keyword Spotting</span><br>
       <span class="pub-list-authors"><strong>Jin Li</strong>, Wenbin Jiang, Ji Hu.</span>
       <span class="pub-list-note">Accepted.</span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2606.10365" target="_blank" rel="noopener">[arXiv]</a></span>
     </li>
     <li>
       <span class="pub-list-badge"><em>NeurIPS 2026 D&B</em></span>
