@@ -8,7 +8,7 @@ baseurl                  : ""
 repository               : "Rivflyyy/Rivflyyy.github.io"
 
 author:
-  avatar           : "welt.png"
+  avatar           : "profile-photo.jpg"
   name             : "Jin Li"
   pronouns         :
   bio              : "B.Eng. student at Hangzhou Dianzi University. Multimodal learning, large language models, and diffusion models."
