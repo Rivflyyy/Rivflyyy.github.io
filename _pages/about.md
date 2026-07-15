@@ -32,7 +32,7 @@ redirect_from:
 <h2 id="news">News</h2>
 <div class="news-box">
   <ul class="news-list">
-    <li><span class="news-date"><em>2026.06</em></span> <strong>KFC-KWS</strong> was accepted to <em>Interspeech 2026</em>. This work studies user-defined keyword spotting with CTC-guided keyframe fusion.</li>
+    <li><span class="news-date"><em>2026.06</em></span> <strong>KFC-KWS</strong> was accepted as an <em>Oral</em> presentation at <em>Interspeech 2026</em>. This work studies user-defined keyword spotting with CTC-guided keyframe fusion.</li>
     <li><span class="news-date"><em>2026.05</em></span> <strong>OpenVTON-Bench</strong> was submitted to the <em>NeurIPS 2026 Datasets & Benchmarks Track</em>, focusing on high-resolution controllable virtual try-on evaluation.</li>
     <li><span class="news-date"><em>2026.01</em></span> <strong>Spectral Logit Sculpting</strong> was accepted to <em>IEEE ICASSP 2026</em>. The paper explores inference-time optimization for controlled text generation.</li>
     <li><span class="news-date"><em>2025.08</em></span> <strong>NC-KWS</strong> was accepted to <em>NCMMSC 2025</em>, bringing neural-collapse-inspired ideas to few-shot class-incremental keyword spotting.</li>
@@ -109,7 +109,7 @@ redirect_from:
         <i><strong>Jin Li</strong>, Wenbin Jiang, Ji Hu.</i><br>
         Uses CTC peaky posterior distributions to select phoneme keyframes, aligning audio, phoneme, and text modalities for discriminating highly confusable user-defined keywords.
         <br>
-        <b><i class="venue">Interspeech 2026</i></b>
+        <b><i class="venue">Interspeech 2026 Oral</i></b>
         <a href="https://arxiv.org/abs/2606.10365" target="_blank" rel="noopener"><em>[arXiv]</em></a>
       </div>
     </div>
@@ -174,10 +174,10 @@ redirect_from:
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2509.25204" target="_blank" rel="noopener">[arXiv]</a></span>
     </li>
     <li>
-      <span class="pub-list-badge"><em>Interspeech 2026</em></span>
+      <span class="pub-list-badge"><em>Interspeech 2026 Oral</em></span>
       <span class="pub-list-title">KFC-KWS: Keyframe Fusion with CTC for User-Defined Keyword Spotting</span><br>
       <span class="pub-list-authors"><strong>Jin Li</strong>, Wenbin Jiang, Ji Hu.</span>
-      <span class="pub-list-note">Accepted.</span>
+      <span class="pub-list-note">Oral presentation.</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2606.10365" target="_blank" rel="noopener">[arXiv]</a></span>
     </li>
     <li>
