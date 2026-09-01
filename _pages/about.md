@@ -10,22 +10,22 @@ redirect_from:
 
 <section class="hero-panel">
   <p class="eyebrow">Jin Li</p>
-  <h1 class="main-heading">Multimodal Learning, Large Language Models, and Diffusion Models</h1>
+  <h1 class="main-heading">Reliable and Efficient Multimodal Intelligence</h1>
   <p class="hero-copy">
-    My research began with intelligent signal processing and edge-oriented voice interaction,
-    where I worked on robust command recognition and multimodal sensing systems.
-    I then moved toward large language model reasoning, inference-time optimization,
-    and multimodal generation evaluation. Looking ahead, I am especially interested in
-    reliable multimodal intelligence, controllable diffusion models, and efficient LLM systems.
+    I study reliable and efficient multimodal systems across language, vision, and speech,
+    with a particular interest in model evaluation, inference-time optimization, and controllable generation.
+    My work spans human-aligned VLM evaluation, lightweight LLM inference control,
+    audio-text alignment, and efficient model deployment.
   </p>
   <div class="hero-actions">
     <a class="action-button" href="https://scholar.google.com/citations?user=SkpNdIoAAAAJ&hl=zh-CN" target="_blank" rel="noopener">Google Scholar</a>
     <a class="action-button" href="https://github.com/Rivflyyy" target="_blank" rel="noopener">GitHub</a>
   </div>
   <div class="research-tags">
-    <span>Multimodal Learning</span>
-    <span>Large Language Models</span>
-    <span>Diffusion Models</span>
+    <span>Multimodal Reasoning</span>
+    <span>Reliable Evaluation</span>
+    <span>Efficient Inference</span>
+    <span>Controllable Generation</span>
   </div>
 </section>
 
@@ -47,7 +47,7 @@ redirect_from:
     <div class="experience-info">
       <strong>Hangzhou Dianzi University</strong><br>
       <em>Sep 2022 - Jun 2026</em><br>
-      B.Eng. in Electronic Information Engineering · GPA: 89.59 / 100<br>
+      B.Eng. in Electronic Information Engineering · GPA: 89.75 / 100<br>
       <span class="muted">Key coursework: Machine Vision, Signal Detection and Processing, DSP and Intelligent Systems, Digital Signal Processing, Microelectronics, and EDA Technology.</span>
     </div>
   </div>

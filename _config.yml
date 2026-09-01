@@ -2,7 +2,7 @@ locale                   : "en-US"
 title                    : "Jin Li"
 title_separator          : "-"
 name                     : "Jin Li"
-description              : &description "Academic homepage of Jin Li, an undergraduate researcher working on multimodal learning, large language models, and diffusion models."
+description              : &description "Academic homepage of Jin Li, whose research focuses on reliable and efficient multimodal systems across language, vision, and speech."
 url                      : "https://rivflyyy.github.io"
 baseurl                  : ""
 repository               : "Rivflyyy/Rivflyyy.github.io"
@@ -11,7 +11,7 @@ author:
   avatar           : "profile-photo.jpg"
   name             : "Jin Li"
   pronouns         :
-  bio              : "B.Eng. student at Hangzhou Dianzi University. Multimodal learning, large language models, and diffusion models."
+  bio              : "B.Eng. in Electronic Information Engineering from Hangzhou Dianzi University. Reliable and efficient multimodal intelligence."
   location         : "Hangzhou, China"
   employer         : "Hangzhou Dianzi University"
   uri              :
