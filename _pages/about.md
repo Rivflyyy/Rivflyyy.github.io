@@ -32,8 +32,8 @@ redirect_from:
 <h2 id="news">News</h2>
 <div class="news-box">
   <ul class="news-list">
-    <li><span class="news-date"><em>2026.06</em></span> <strong>KFC-KWS</strong> was accepted as an <em>Oral</em> presentation at <em>Interspeech 2026</em>. This work studies user-defined keyword spotting with CTC-guided keyframe fusion.</li>
     <li><span class="news-date"><em>2026.09</em></span> <strong>OpenVTON-Bench</strong> was accepted to the <em>NeurIPS 2026 ED Track</em>, focusing on high-resolution controllable virtual try-on evaluation.</li>
+    <li><span class="news-date"><em>2026.06</em></span> <strong>KFC-KWS</strong> was accepted as an <em>Oral</em> presentation at <em>Interspeech 2026</em>. This work studies user-defined keyword spotting with CTC-guided keyframe fusion.</li>
     <li><span class="news-date"><em>2026.01</em></span> <strong>Spectral Logit Sculpting</strong> was accepted to <em>IEEE ICASSP 2026</em>. The paper explores inference-time optimization for controlled text generation.</li>
     <li><span class="news-date"><em>2025.08</em></span> <strong>NC-KWS</strong> was accepted to <em>NCMMSC 2025</em>, bringing neural-collapse-inspired ideas to few-shot class-incremental keyword spotting.</li>
     <li><span class="news-date"><em>2025.05</em></span> <strong>MRIE</strong> was accepted to <em>IEEE Access</em>. This work investigates two-stage multimodal learning for rainfall intensity estimation.</li>
