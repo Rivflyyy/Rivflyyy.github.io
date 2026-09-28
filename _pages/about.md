@@ -33,7 +33,7 @@ redirect_from:
 <div class="news-box">
   <ul class="news-list">
     <li><span class="news-date"><em>2026.06</em></span> <strong>KFC-KWS</strong> was accepted as an <em>Oral</em> presentation at <em>Interspeech 2026</em>. This work studies user-defined keyword spotting with CTC-guided keyframe fusion.</li>
-    <li><span class="news-date"><em>2026.05</em></span> <strong>OpenVTON-Bench</strong> was submitted to the <em>NeurIPS 2026 Datasets & Benchmarks Track</em>, focusing on high-resolution controllable virtual try-on evaluation.</li>
+    <li><span class="news-date"><em>2026.05</em></span> <strong>OpenVTON-Bench</strong> was accepted to the <em>NeurIPS 2026 ED Track</em>, focusing on high-resolution controllable virtual try-on evaluation.</li>
     <li><span class="news-date"><em>2026.01</em></span> <strong>Spectral Logit Sculpting</strong> was accepted to <em>IEEE ICASSP 2026</em>. The paper explores inference-time optimization for controlled text generation.</li>
     <li><span class="news-date"><em>2025.08</em></span> <strong>NC-KWS</strong> was accepted to <em>NCMMSC 2025</em>, bringing neural-collapse-inspired ideas to few-shot class-incremental keyword spotting.</li>
     <li><span class="news-date"><em>2025.05</em></span> <strong>MRIE</strong> was accepted to <em>IEEE Access</em>. This work investigates two-stage multimodal learning for rainfall intensity estimation.</li>
@@ -92,7 +92,7 @@ redirect_from:
         <i><strong>Jin Li*</strong>, Tao Chen*, Kai Wen, Siqi Yin, Shuai Jiang, Weijie Wang, Jingwen Luo, Chenhui Wu&dagger;.</i><br>
         A nearly 100K-pair high-resolution virtual try-on benchmark with semantic balancing, dense garment captions, VLM-as-a-Judge evaluation, and representation-based structural metrics aligned with human preference.
         <br>
-        <b><i class="venue">NeurIPS 2026 D&B Submission</i></b>
+        <b><i class="venue">NeurIPS 2026 ED Track</i></b>
         <a href="https://arxiv.org/abs/2601.22725" target="_blank" rel="noopener"><em>[arXiv]</em></a>
         <a href="https://github.com/Rivflyyy/OpenVTON-Bench" target="_blank" rel="noopener"><em>[code]</em></a>
       </div>
@@ -181,9 +181,10 @@ redirect_from:
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2606.10365" target="_blank" rel="noopener">[arXiv]</a></span>
     </li>
     <li>
-      <span class="pub-list-badge"><em>NeurIPS 2026 D&B</em></span>
+      <span class="pub-list-badge"><em>NeurIPS 2026 ED Track</em></span>
       <span class="pub-list-title">OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation</span><br>
       <span class="pub-list-authors"><strong>Jin Li*</strong>, Tao Chen*, Kai Wen, Siqi Yin, Shuai Jiang, Weijie Wang, Jingwen Luo, Chenhui Wu&dagger;.</span>
+      <span class="pub-list-note">Accepted.</span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2601.22725" target="_blank" rel="noopener">[arXiv]</a><a href="https://github.com/Rivflyyy/OpenVTON-Bench" target="_blank" rel="noopener">[code]</a></span>
     </li>
     <li>
