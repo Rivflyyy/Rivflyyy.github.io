@@ -32,6 +32,7 @@ redirect_from:
 <h2 id="news">News</h2>
 <div class="news-box">
   <ul class="news-list">
+    <li><span class="news-date"><em>2026.10</em></span> <strong>SpikCTU</strong> is now available on <a href="https://arxiv.org/abs/2610.14594" target="_blank" rel="noopener">arXiv</a>. This work studies compact spiking networks with adaptive recurrent computation for speech command recognition.</li>
     <li><span class="news-date"><em>2026.09</em></span> <strong>OpenVTON-Bench</strong> was accepted to the <em>NeurIPS 2026 ED Track</em>, focusing on high-resolution controllable virtual try-on evaluation.</li>
     <li><span class="news-date"><em>2026.06</em></span> <strong>KFC-KWS</strong> was accepted as an <em>Oral</em> presentation at <em>Interspeech 2026</em>. This work studies user-defined keyword spotting with CTC-guided keyframe fusion.</li>
     <li><span class="news-date"><em>2026.01</em></span> <strong>Spectral Logit Sculpting</strong> was accepted to <em>IEEE ICASSP 2026</em>. The paper explores inference-time optimization for controlled text generation.</li>
@@ -82,6 +83,23 @@ redirect_from:
 <p class="legend">* equal contribution · &dagger; corresponding author / project lead</p>
 
 <div id="core-publications" class="publication-view" data-publication-view="core">
+  <div class="publication-card">
+    <div class="card-row">
+      <div class="pub-media-rotator" data-interval="4000">
+        <img src="images/publications/spikctu-pipeline.png" alt="SpikCTU architecture with hybrid spiking embedding, a shared Continuous Thinking Unit, and adaptive early exit">
+      </div>
+      <div>
+        <strong>SpikCTU: A Compact Spiking Network with Adaptive Recurrent Computation for Speech Command Recognition</strong><br>
+        <i><strong>Jin Li</strong>, Wenbin Jiang, Tao Chen, Fei Wen.</i><br>
+        A compact spiking network that uses a shared Continuous Thinking Unit to refine predictions over recurrent steps, with confidence-based early exit and only 0.16&ndash;0.17M parameters across three speech command recognition benchmarks.
+        <br>
+        <b><i class="venue">arXiv</i></b>
+        <a href="https://arxiv.org/abs/2610.14594" target="_blank" rel="noopener"><em>[arXiv]</em></a>
+        <a href="https://arxiv.org/pdf/2610.14594" target="_blank" rel="noopener"><em>[PDF]</em></a>
+      </div>
+    </div>
+  </div>
+
   <div class="publication-card featured">
     <div class="card-row">
       <div class="pub-media-rotator" data-interval="4000">
@@ -166,6 +184,13 @@ redirect_from:
 
 <div id="full-publications" class="publication-view" data-publication-view="list" hidden>
   <ul class="full-publication-list">
+    <li>
+      <span class="pub-list-badge"><em>arXiv</em></span>
+      <span class="pub-list-title">SpikCTU: A Compact Spiking Network with Adaptive Recurrent Computation for Speech Command Recognition</span><br>
+      <span class="pub-list-authors"><strong>Jin Li</strong>, Wenbin Jiang, Tao Chen, Fei Wen.</span>
+      <span class="pub-list-note">Preprint.</span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2610.14594" target="_blank" rel="noopener">[arXiv]</a><a href="https://arxiv.org/pdf/2610.14594" target="_blank" rel="noopener">[PDF]</a></span>
+    </li>
     <li>
       <span class="pub-list-badge"><em>ICASSP 2026</em></span>
       <span class="pub-list-title">Spectral Logit Sculpting: Adaptive Low-Rank Logit Transformation for Controlled Text Generation</span><br>
